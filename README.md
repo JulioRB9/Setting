@@ -1,5 +1,5 @@
 
-# ![lunarvim](https://uicdn.toast.com/toastui/img/tui-editor-bi.png)
+# ![lunarvim](https://github.com/ISEATO-JR)
 
 > GFM  Markdown and WYSIWYG Editor - Productive and Extensible
 
@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/37766175/121809054-446bac80-cc96-11eb-9139-08c6d9ad2d88.png" />
 
 
-## 🚩 Table of Contents
+## 🚩 TAbla de contenido
 
 - [Packages](#-packages)
 - [Why TOAST UI Editor?](#-why-toast-ui-editor)
