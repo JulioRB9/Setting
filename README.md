@@ -9,10 +9,10 @@
 ## 🚩 TAbla de contenido
 
 - [Neovim](#-packages)
-- [Packages](#-why-toast-ui-editor)
-- [Features](#-features)
-- [Examples](#-examples)
-- [Browser Support](#-browser-support)
+- [git](#-why-toast-ui-editor)
+- [python](#-features)
+- [nmp](#-examples)
+- [](#-browser-support)
 - [Pull Request Steps](#-pull-request-steps)
 - [Contributing](#-contributing)
 - [TOAST UI Family](#-toast-ui-family)
@@ -24,17 +24,15 @@
 Hay muchas forma de como instalar neovim, en este caso vamos necesitar la version mas reciente de editor asi que tenemos que ir a su sitio oficial y seguir los paso de instalacion
 [Oficial stable](https://launchpad.net/~neovim-ppa/+archive/ubuntu/stable)
 
+## 🚩 TAbla de contenido
 
-### Packeages 
-| Packages | Description |
-| :------: | :---------: |
-| [`git`](https://git-scm.com/download/linux) | Software de control de versiones |
-| [`make`](https://www.gnu.org/software/make/) | GNU Make es una herramienta que controla la generación de ejecutables y otros archivos |
-| [`pip`](https://pypi.org/project/pip/) |  PyPA para instalar paquetes de Python |
-| [`Python`](https://www.python.org/) | Python es un lenguaje de programación |
-| [`Npm`](https://www.npmjs.com/) |  Gestión de paquetes por defecto para Node.js |
-| [`Nodejs`](https://github.com/nodesource/distributions/blob/master/OLD_README.md#debinstall) | Entorno de ejecución de JavaScript multiplataforma |
-| [`Rust`](https://www.rust-lang.org/tools/install) | Lenguaje de programacion |
+- [`git`](https://git-scm.com/download/linux) | Software de control de versiones |
+- [`make`](https://www.gnu.org/software/make/) | GNU Make es una herramienta que controla la generación de ejecutables y otros archivos |
+- [`pip`](https://pypi.org/project/pip/) |  PyPA para instalar paquetes de Python |
+- [`Python`](https://www.python.org/) | Python es un lenguaje de programación |
+- [`Npm`](https://www.npmjs.com/) |  Gestión de paquetes por defecto para Node.js |
+- [`Nodejs`](https://github.com/nodesource/distributions/blob/master/OLD_README.md#debinstall) | Entorno de ejecución de JavaScript multiplataforma |
+- [`Rust`](https://www.rust-lang.org/tools/install) | Lenguaje de programacion |
 
 ### TOAST UI Editor's Plugins
 
