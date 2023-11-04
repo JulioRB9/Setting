@@ -1,5 +1,5 @@
 
-# ![lunarvim](https://github.com/ISEATO-JR/Labs-SpeedTest/blob/main/Frame%202.png)
+# ![LVN UI Editor](https://github.com/ISEATO-JR/Labs-SpeedTest/blob/main/Logo.png)
 
 > GFM  Markdown and WYSIWYG Editor - Productive and Extensible
 
