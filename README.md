@@ -6,21 +6,7 @@
 [![github release version](https://img.shields.io/github/v/release/nhn/tui.editor.svg?include_prereleases)](https://github.com/nhn/tui.editor/releases/latest) [![npm version](https://img.shields.io/npm/v/@toast-ui/editor.svg)](https://www.npmjs.com/package/@toast-ui/editor) [![license](https://img.shields.io/github/license/nhn/tui.editor.svg)](https://github.com/nhn/tui.editor/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/nhn/tui.editor/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![code with hearth by NHN Cloud](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-NHN_Cloud-ff1414.svg)](https://github.com/nhn)
 
 
-## 🚩 TAbla de contenido
-
-- [Neovim](#-packages)
-- [git](#-why-toast-ui-editor)
-- [python](#-features)
-- [nmp](#-examples)
-- [](#-browser-support)
-- [Pull Request Steps](#-pull-request-steps)
-- [Contributing](#-contributing)
-- [TOAST UI Family](#-toast-ui-family)
-- [Used By](#-used-by)
-- [License](#-license)
-
-
-## 📦 Packages
+## 📦 Intro
 Hay muchas forma de como instalar neovim, en este caso vamos necesitar la version mas reciente de editor asi que tenemos que ir a su sitio oficial y seguir los paso de instalacion
 [Oficial stable](https://launchpad.net/~neovim-ppa/+archive/ubuntu/stable)
 
