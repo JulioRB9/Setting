@@ -22,7 +22,7 @@ Hay muchas forma de como instalar neovim, en este caso vamos necesitar la versio
 
 ## 🔧 Instalacion
 1. Configuarar el repositorio de nuestro equipo ya que ubuntu quedo atascado con la versio 7 y lo que necesitamos es la version 09*
-- [`Sitio`](https://docs.makedeb.org/prebuilt-mpr/getting-started/#setting-up-the-repository)
+- [Respositorio nevim](https://docs.makedeb.org/prebuilt-mpr/getting-started/#setting-up-the-repository)
 
 ```bash
 wget -qO - 'https://proget.makedeb.org/debian-feeds/prebuilt-mpr.pub' | gpg --dearmor | sudo tee /usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg 1> /dev/null
