@@ -9,7 +9,7 @@
 ## 🚩 TAbla de contenido
 
 - [Neovim](#-packages)
-- [](#-why-toast-ui-editor)
+- [Packages](#-why-toast-ui-editor)
 - [Features](#-features)
 - [Examples](#-examples)
 - [Browser Support](#-browser-support)
@@ -21,9 +21,18 @@
 
 
 ## 📦 Packages
+Hay muchas forma de como instar neovim, en este caso vamos necesitar la version mas reciente de editor asi que tenemos que ir a su sitio oficial y seguir los paso de instalacion
+[Oficial stable](https://launchpad.net/~neovim-ppa/+archive/ubuntu/stable)
 
-### Actualizar el cache 
 
+### Packeages 
+| Packages | Description |
+| :------: | :---------: |
+| [`git`](https://git-scm.com/download/linux) | Software de control de versiones |
+| [`make`](https://www.gnu.org/software/make/) | GNU Make es una herramienta que controla la generación de ejecutables y otros archivos |
+| [`pip`](https://pypi.org/project/pip/) |  PyPA para instalar paquetes de Python |
+| [`python`](https://www.python.org/) | Python es un lenguaje de programación |
+| [`npm`](https://www.npmjs.com/) |  Gestión de paquetes por defecto para Node.js |
 
 
 ### TOAST UI Editor's Plugins
