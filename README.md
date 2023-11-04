@@ -21,7 +21,13 @@ Hay muchas forma de como instalar neovim, en este caso vamos necesitar la versio
 - [`Rust`](https://www.rust-lang.org/tools/install) | Lenguaje de programacion |
 
 ## 🔧 Instalacion
+1. Configuarar el repositorio de nuestro equipo ya que ubuntu quedo atascado con la versio 7 y lo que necesitamos es la version 09*
 
+```bash
+wget -qO - 'https://proget.makedeb.org/debian-feeds/prebuilt-mpr.pub' | gpg --dearmor | sudo tee /usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg 1> /dev/null
+echo "deb [arch=all,$(dpkg --print-architecture) signed-by=/usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg] https://proget.makedeb.org prebuilt-mpr $(lsb_release -cs)" | sudo tee /etc/apt/sources.list.d/prebuilt-mpr.list
+sudo apt update
+```
 ### TOAST UI Editor's Plugins
 
 | Name | Description |
