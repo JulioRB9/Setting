@@ -1,12 +1,5 @@
-# lvim
-Una capa IDE para Neovim con valores predeterminados sensatos
 
-# Foobar
-Gusto personal.
-
-## Ingrediente
-
-# ![TOAST UI Editor](https://uicdn.toast.com/toastui/img/tui-editor-bi.png)
+# ![lunarvim](https://uicdn.toast.com/toastui/img/tui-editor-bi.png)
 
 > GFM  Markdown and WYSIWYG Editor - Productive and Extensible
 
